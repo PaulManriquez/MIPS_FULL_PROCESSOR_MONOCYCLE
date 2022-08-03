@@ -1,0 +1,43 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2022-08-02 23:06:25
+
+Elaboration top modules:
+Verilog Module                TOP_tb
+SystemVerilog Class           \*dynarray#(string) \
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+TOP_tb                  | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Processor               | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Control                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+ALU_control             | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+PC                      | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Adder                   | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+InstMem                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Mux_2to1                | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+RegFile                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+SignExt                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+ALU                     | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+XOR_gate                | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+AND_gate                | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+DataMem                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+SystemVerilog Class     | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+\*dynarray#(string) \   | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
